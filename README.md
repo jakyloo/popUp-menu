@@ -5,7 +5,7 @@ This project provides a vanilla js 'engine' to manage a one level popUp menu.<br
 One important feature, to improve the 'user experience', is the permanence of the menu for a little while after the mouse left (accidentally) it.<br> 
 <br>
 
-<img src="PopUp-menu.png" alt="drawing" style="display: block; margin-left: 100px; auto;width:400px;" class="center"/>
+<img src="./images/PopUp-menu.png" alt="drawing" style="display: block; margin-left: 100px; auto;width:400px;" class="center"/>
 <!-- ![GitHub](/PopUp-menu.png =10x) -->
 <!-- # Format: ![Alt Text](url) -->
 
