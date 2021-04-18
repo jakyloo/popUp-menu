@@ -1,5 +1,5 @@
 
-# popUp-menu
+# popUp-menu ### [DEMO] (https://cogit-ergo-sum.github.io/popUp-menu/)
 This project provides a vanilla js 'engine' to manage a one level popUp menu.<br> 
 <br>
 One user friendly feature is the permanence of the menu for a little while, after the mouse left it (accidentally or not).<br> 
